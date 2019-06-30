@@ -1,0 +1,4 @@
+database = oppzone_schema
+user = root
+password = 4AngryZebras!
+default-character-set = utf8
